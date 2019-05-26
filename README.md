@@ -1,6 +1,6 @@
 # vue-cli
 
-> A Vue.js project
+> A Vue.js project, website address: http://stock-trader-vuejs-charlie.s3-website.us-east-2.amazonaws.com/
 
 ## Build Setup
 
